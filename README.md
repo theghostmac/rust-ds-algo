@@ -86,6 +86,17 @@ from scratch with knowledge gained here.
 - [ ] [Bucket](./src/sorting/bucket_sort.rs)
 - [ ] [Timsort](./src/sorting/tim_sort.rs)
 
+### Searching Algorithms
+
+- [ ] [Linear](./src/searching/linear_search.rs)
+- [ ] [Binary](./src/searching/binary_search.rs)
+- [ ] [Recursive Binary](./src/searching/binary_search_recursive.rs)
+- [ ] [Kth Smallest](./src/searching/kth_smallest.rs)
+- [ ] [Exponential](./src/searching/exponential_search.rs)
+- [ ] [Jump](./src/searching/jump_search.rs)
+- [ ] [Fibonacci](./src/searching/fibonacci_search.rs)
+- [ ] [Quick Select](./src/searching/quick_select.rs)
+
 ### Graphs
 
 - [ ] [Dijkstra](./src/graph/dijkstra.rs)
@@ -163,19 +174,7 @@ from scratch with knowledge gained here.
 
 - [ ] [Closest pair of 2D points](./src/geometry/closest_points.rs)
 
-
-### Search
-
-- [ ] [Linear](./src/searching/linear_search.rs)
-- [ ] [Binary](./src/searching/binary_search.rs)
-- [ ] [Recursive Binary](./src/searching/binary_search_recursive.rs)
-- [ ] [Kth Smallest](./src/searching/kth_smallest.rs)
-- [ ] [Exponential](./src/searching/exponential_search.rs)
-- [ ] [Jump](./src/searching/jump_search.rs)
-- [ ] [Fibonacci](./src/searching/fibonacci_search.rs)
-- [ ] [Quick Select](./src/searching/quick_select.rs)
-
-### Math
+### Mathematics
 - [ ] [Baby-Step Giant-Step Algorithm](./src/math/baby_step_giant_step.rs)
 - [ ] [Extended euclidean algorithm](./src/math/extended_euclidean_algorithm.rs)
 - [ ] [Gaussian Elimination](./src/math/gaussian_elimination.rs)
